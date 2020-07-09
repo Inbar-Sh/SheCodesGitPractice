@@ -1,2 +1,2 @@
 print("We are all individuals")
-print("Spam Spam")
+print("Eggs Eggs Spam Spam")
